@@ -1,0 +1,10 @@
+streamlit
+chromadb
+ollama
+pypdf
+python-dotenv
+sentence-transformers
+torch
+SpeechRecognition
+PyAudio
+pyttsx3
